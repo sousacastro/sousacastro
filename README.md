@@ -1,6 +1,7 @@
-## Bem-vindo(a) ao perfil do Dev Ismael de Castro 😁
+# Bem-vindo(a) ao perfil do Dev Ismael de Castro 😁
 
-*Sobre mim*
+## Sobre mim
+*Estudante do Curso de Análise e Desenvolvimento de Sistemas, empenhado em conhecer e aplicar as linguagens de programação para a criação de tecnologias para a melhoria do cotidiano, uma vez que a tecnologia se faz cada vez mais presente em nossas vidas.*
 
  <div>
    <a href="https://github.com/ismaeldecastro">
